@@ -1,0 +1,1 @@
+select count(distinct user_id) as total_users from users;
